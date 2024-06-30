@@ -28,6 +28,7 @@ on:
         type: choice
         options:
           - 'x64_all'
+          - 'x64_all'      
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
